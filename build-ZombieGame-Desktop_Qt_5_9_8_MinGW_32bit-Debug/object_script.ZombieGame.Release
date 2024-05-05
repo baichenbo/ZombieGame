@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwidget.o
+./release\gamewidget.o
+./release\easyview.o
+./release\qcannon.o
+./release\qpixmapitem.o
+./release\qzombie.o
+./release\qbullet.o
+./release\qbombing.o
+./release\moc_mainwidget.o
+./release\moc_gamewidget.o
+);

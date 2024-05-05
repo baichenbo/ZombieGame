@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwidget.o
+./debug\gamewidget.o
+./debug\easyview.o
+./debug\qcannon.o
+./debug\qpixmapitem.o
+./debug\qzombie.o
+./debug\qbullet.o
+./debug\qbombing.o
+./debug\moc_mainwidget.o
+./debug\moc_gamewidget.o
+);
